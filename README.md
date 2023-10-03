@@ -12,6 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
+skip as line before adding the header element
 
 <!--
   <<< Author notes: Step 6 >>>
